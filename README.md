@@ -1,32 +1,31 @@
-# Maternop
+# maternop-api
 
-API que recebe um CEP e devolve os locais de coleta de leite materno mais próximos.
+Manda um CEP e recebe os locais de coleta de leite materno mais próximos: nome, contato, endereço, distância e link do Google Maps.
 
-A lista sai da [rBLH/Fiocruz](https://rblh.fiocruz.br/localizacao-dos-blhs). O CEP é consultado na AwesomeAPI e, se não vier coordenada, na BrasilAPI.
-
-## Instalar
-
-```bash
-npm install
-```
+A lista de locais é a da [rBLH/Fiocruz](https://rblh.fiocruz.br/localizacao-dos-blhs).
 
 ## Rodar
 
 ```bash
+npm install
 npm start
 ```
 
-Sobe em http://127.0.0.1:8000. A documentação fica em `/docs`.
+A API sobe na porta 8000 e fica acessível pelo IP da máquina, não só em localhost. O endereço aparece no terminal e o navegador abre a documentação nesse IP.
 
-## Uso
+Na mesma rede Wi-Fi, o celular ou outro PC usa o mesmo endereço. Exemplo:
+
+```
+http://192.168.0.15:8000/docs
+```
+
+## Consulta
 
 ```
 GET /locais?cep=01310100&limite=5
 ```
 
-`cep` pode ir com ou sem hífen. `limite` vai de 1 a 20 (padrão 5).
-
-Cada local volta com nome, contato, endereço, distância em km e link do Google Maps.
+O CEP pode ir com ou sem hífen. `limite` vai de 1 a 20. Sem ele, a API devolve 5 locais.
 
 ```
 GET /health

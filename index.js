@@ -1,4 +1,6 @@
+import { exec } from "node:child_process";
 import { readFile } from "node:fs/promises";
+import os from "node:os";
 import express from "express";
 import { atualizar } from "./atualizar.js";
 import { FONTE, arquivoDocs, carregarLocais } from "./lib/catalogo.js";
@@ -111,6 +113,32 @@ catalogo.locais = dados.locais || [];
 catalogo.atualizado_em = dados.atualizado_em;
 catalogo.fonte = dados.fonte || FONTE;
 
-app.listen(8000, "0.0.0.0", () => {
-  console.log("http://127.0.0.1:8000");
+function ipsDaRede() {
+  const ips = [];
+  for (const lista of Object.values(os.networkInterfaces())) {
+    for (const rede of lista || []) {
+      const v4 = rede.family === "IPv4" || rede.family === 4;
+      if (!v4 || rede.internal) continue;
+      if (rede.address.startsWith("169.254.")) continue;
+      ips.push(rede.address);
+    }
+  }
+  const peso = (ip) => {
+    if (ip.startsWith("192.168.")) return 0;
+    if (ip.startsWith("10.")) return 1;
+    return 2;
+  };
+  return ips.sort((a, b) => peso(a) - peso(b));
+}
+
+const porta = Number(process.env.PORT) || 8000;
+
+app.listen(porta, "0.0.0.0", () => {
+  const ips = ipsDaRede();
+  const host = ips[0] || "127.0.0.1";
+  const url = `http://${host}:${porta}`;
+  console.log(url);
+  console.log(`${url}/docs`);
+  for (const ip of ips.slice(1)) console.log(`http://${ip}:${porta}`);
+  if (process.platform === "win32") exec(`start "" "${url}/docs"`);
 });
