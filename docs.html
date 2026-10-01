@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>docs</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    html, body { margin: 0; background: #000; color: #e7e7e7; }
+    body {
+      font: 15px/1.55 "Segoe UI", system-ui, sans-serif;
+    }
+    a { color: inherit; text-decoration: none; }
+    code, pre, .mono { font-family: Consolas, ui-monospace, monospace; }
+    .wrap { display: flex; min-height: 100vh; }
+    nav {
+      width: 220px;
+      flex: none;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 28px 18px;
+      border-right: 1px solid #1c1c1c;
+      background: #000;
+    }
+    nav p {
+      margin: 0 0 22px;
+      color: #6f6f6f;
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    nav a {
+      display: block;
+      padding: 8px 10px;
+      margin: 0 0 4px;
+      border-radius: 6px;
+      color: #9a9a9a;
+      font-size: 14px;
+    }
+    nav a:hover, nav a.ativo { background: #141414; color: #fff; }
+    main {
+      flex: 1;
+      max-width: 820px;
+      padding: 36px 40px 80px;
+    }
+    section { scroll-margin-top: 24px; margin-bottom: 56px; }
+    h1 { margin: 0 0 10px; font-size: 28px; font-weight: 600; letter-spacing: -.03em; }
+    h2 { margin: 28px 0 10px; font-size: 13px; font-weight: 600; color: #8d8d8d; letter-spacing: .06em; text-transform: uppercase; }
+    p { margin: 0 0 14px; color: #c6c6c6; }
+    .linha {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 14px;
+    }
+    .metodo {
+      font-family: Consolas, ui-monospace, monospace;
+      font-size: 12px;
+      font-weight: 700;
+      color: #b7ebc6;
+      background: #102117;
+      border: 1px solid #1d3a28;
+      padding: 3px 7px;
+      border-radius: 4px;
+    }
+    .path {
+      font-family: Consolas, ui-monospace, monospace;
+      font-size: 15px;
+      color: #fff;
+    }
+    table { width: 100%; border-collapse: collapse; margin: 8px 0 4px; }
+    th, td {
+      text-align: left;
+      padding: 10px 12px;
+      border-bottom: 1px solid #1a1a1a;
+      vertical-align: top;
+      font-size: 14px;
+    }
+    th { color: #7d7d7d; font-weight: 500; font-size: 12px; }
+    td:first-child { font-family: Consolas, ui-monospace, monospace; color: #fff; white-space: nowrap; }
+    .tipo { color: #8f8f8f; font-family: Consolas, ui-monospace, monospace; font-size: 13px; }
+    pre {
+      margin: 8px 0 0;
+      padding: 14px 16px;
+      background: #0a0a0a;
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      overflow: auto;
+      color: #ddd;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+    .s { color: #d7c4a3; }
+    .n { color: #9dcea8; }
+    .k { color: #d0d0d0; }
+    .teste {
+      margin-top: 8px;
+      padding: 14px;
+      border: 1px solid #1e1e1e;
+      border-radius: 8px;
+      background: #070707;
+    }
+    .campos { display: flex; gap: 10px; }
+    label { display: block; margin-bottom: 6px; color: #8a8a8a; font-size: 12px; }
+    input, button { font: inherit; }
+    input {
+      width: 100%;
+      background: #000;
+      color: #fff;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      padding: 9px 10px;
+      outline: none;
+    }
+    input:focus { border-color: #555; }
+    .cep { flex: 1; }
+    .limite { width: 110px; }
+    button {
+      align-self: end;
+      background: #fff;
+      color: #000;
+      border: 0;
+      border-radius: 6px;
+      padding: 9px 14px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    button:hover { background: #e7e7e7; }
+    #saida { min-height: 72px; }
+    .erro { color: #e7a0a0; }
+    @media (max-width: 800px) {
+      .wrap { display: block; }
+      nav {
+        position: sticky;
+        top: 0;
+        width: auto;
+        height: auto;
+        display: flex;
+        gap: 6px;
+        align-items: center;
+        padding: 10px 12px;
+        border-right: 0;
+        border-bottom: 1px solid #1c1c1c;
+        z-index: 2;
+      }
+      nav p { display: none; }
+      nav a { margin: 0; }
+      main { padding: 22px 16px 64px; }
+      .campos { flex-wrap: wrap; }
+      .limite, .cep { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <p>referência</p>
+      <a href="#locais">GET /locais</a>
+      <a href="#health">GET /health</a>
+      <a href="#erros">erros</a>
+    </nav>
+    <main>
+      <section id="locais">
+        <div class="linha"><span class="metodo">GET</span><span class="path">/locais</span></div>
+        <h1>Locais próximos</h1>
+        <p>Recebe um CEP e devolve os bancos de leite e postos de coleta mais próximos. A lista é a da Rede Brasileira de Bancos de Leite Humano. A distância usa a coordenada do CEP.</p>
+        <p>Não tem autenticação. O navegador do site pode chamar direto.</p>
+
+        <h2>Parâmetros</h2>
+        <table>
+          <thead>
+            <tr><th>nome</th><th>tipo</th><th></th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>cep</td>
+              <td class="tipo">string</td>
+              <td>Obrigatório. 8 dígitos, com ou sem hífen. Exemplo: <span class="mono">01310100</span> ou <span class="mono">01310-100</span>.</td>
+            </tr>
+            <tr>
+              <td>limite</td>
+              <td class="tipo">int</td>
+              <td>Quantos locais voltar. De 1 a 20. Se omitir, volta 5.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h2>Request</h2>
+        <pre>GET /locais?cep=01310100&amp;limite=2</pre>
+
+        <h2>Resposta 200</h2>
+        <pre>{
+  <span class="k">"cep"</span>: <span class="s">"01310100"</span>,
+  <span class="k">"endereco"</span>: {
+    <span class="k">"cep"</span>: <span class="s">"01310100"</span>,
+    <span class="k">"logradouro"</span>: <span class="s">"Avenida Paulista"</span>,
+    <span class="k">"bairro"</span>: <span class="s">"Bela Vista"</span>,
+    <span class="k">"cidade"</span>: <span class="s">"São Paulo"</span>,
+    <span class="k">"uf"</span>: <span class="s">"SP"</span>,
+    <span class="k">"latitude"</span>: <span class="n">-23.5632188</span>,
+    <span class="k">"longitude"</span>: <span class="n">-46.6542596</span>
+  },
+  <span class="k">"quantidade"</span>: <span class="n">2</span>,
+  <span class="k">"fonte"</span>: <span class="s">"Rede Brasileira de Bancos de Leite Humano (Fiocruz)"</span>,
+  <span class="k">"locais"</span>: [
+    {
+      <span class="k">"nome"</span>: <span class="s">"Posto de Coleta da Maternidade Pro Matre Paulista"</span>,
+      <span class="k">"tipo"</span>: <span class="s">"Posto de Coleta"</span>,
+      <span class="k">"contato"</span>: <span class="s">"11-3269-2279"</span>,
+      <span class="k">"endereco"</span>: <span class="s">"Rua Joaquim Eugênio de Lima, 383, Bela Vista, SAO PAULO, SP"</span>,
+      <span class="k">"cep"</span>: <span class="s">"01403001"</span>,
+      <span class="k">"cidade"</span>: <span class="s">"SAO PAULO"</span>,
+      <span class="k">"estado"</span>: <span class="s">"São Paulo"</span>,
+      <span class="k">"uf"</span>: <span class="s">"SP"</span>,
+      <span class="k">"distancia_km"</span>: <span class="n">0.6</span>,
+      <span class="k">"distancia_aproximada"</span>: <span class="n">false</span>,
+      <span class="k">"google_maps"</span>: <span class="s">"https://www.google.com/maps/search/?api=1&amp;query=..."</span>
+    }
+  ]
+}</pre>
+
+        <h2>Campos</h2>
+        <table>
+          <thead>
+            <tr><th>campo</th><th></th></tr>
+          </thead>
+          <tbody>
+            <tr><td>endereco</td><td>Endereço resolvido a partir do CEP enviado.</td></tr>
+            <tr><td>quantidade</td><td>Quantos locais vieram em <span class="mono">locais</span>.</td></tr>
+            <tr><td>fonte</td><td>De onde saiu a lista de locais.</td></tr>
+            <tr><td>nome</td><td>Nome do banco ou posto.</td></tr>
+            <tr><td>tipo</td><td>Banco de Leite, Posto de Coleta ou Centro de Referência.</td></tr>
+            <tr><td>contato</td><td>Telefone. Vem <span class="mono">null</span> quando o cadastro não tem.</td></tr>
+            <tr><td>distancia_km</td><td>Distância em linha reta, em quilômetros, com uma casa decimal.</td></tr>
+            <tr><td>distancia_aproximada</td><td><span class="mono">true</span> quando o ponto do local é o da cidade, não o da rua. O CEP daquele cadastro não tinha coordenada.</td></tr>
+            <tr><td>google_maps</td><td>Link para abrir o local no Google Maps.</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Testar</h2>
+        <form class="teste" id="f">
+          <div class="campos">
+            <div class="cep">
+              <label for="cep">cep</label>
+              <input id="cep" value="01310100" autocomplete="off" spellcheck="false">
+            </div>
+            <div class="limite">
+              <label for="limite">limite</label>
+              <input id="limite" value="2" inputmode="numeric">
+            </div>
+            <button type="submit">enviar</button>
+          </div>
+          <pre id="saida">a resposta aparece aqui</pre>
+        </form>
+      </section>
+
+      <section id="health">
+        <div class="linha"><span class="metodo">GET</span><span class="path">/health</span></div>
+        <h1>Status</h1>
+        <p>Diz se a API subiu e quantos locais estão carregados.</p>
+        <h2>Request</h2>
+        <pre>GET /health</pre>
+        <h2>Resposta 200</h2>
+        <pre>{
+  <span class="k">"status"</span>: <span class="s">"ok"</span>,
+  <span class="k">"locais"</span>: <span class="n">493</span>,
+  <span class="k">"com_coordenada"</span>: <span class="n">490</span>,
+  <span class="k">"atualizado_em"</span>: <span class="s">"2026-10-01T01:08:55+00:00"</span>,
+  <span class="k">"fonte"</span>: <span class="s">"Rede Brasileira de Bancos de Leite Humano (Fiocruz)"</span>
+}</pre>
+        <table>
+          <tbody>
+            <tr><td>locais</td><td>Total de bancos e postos na base.</td></tr>
+            <tr><td>com_coordenada</td><td>Quantos entram no cálculo de distância.</td></tr>
+            <tr><td>atualizado_em</td><td>Quando a lista foi gravada, em UTC.</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section id="erros">
+        <h1>Erros</h1>
+        <p>O corpo é sempre <span class="mono">{"detail": "mensagem"}</span>.</p>
+        <table>
+          <thead>
+            <tr><th>status</th><th></th></tr>
+          </thead>
+          <tbody>
+            <tr><td>400</td><td>CEP inválido. Não tem 8 dígitos.</td></tr>
+            <tr><td>404</td><td>CEP não encontrado.</td></tr>
+            <tr><td>422</td><td>O CEP existe, mas não tem coordenada para calcular a distância.</td></tr>
+            <tr><td>502</td><td>A consulta do CEP falhou.</td></tr>
+            <tr><td>503</td><td>A lista de locais não está carregada.</td></tr>
+          </tbody>
+        </table>
+        <pre>{
+  <span class="k">"detail"</span>: <span class="s">"CEP inválido."</span>
+}</pre>
+      </section>
+    </main>
+  </div>
+  <script>
+    const saida = document.getElementById("saida");
+    document.getElementById("f").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const cep = document.getElementById("cep").value.trim();
+      const limite = document.getElementById("limite").value.trim() || "5";
+      saida.className = "";
+      saida.textContent = "consultando...";
+      try {
+        const r = await fetch("/locais?cep=" + encodeURIComponent(cep) + "&limite=" + encodeURIComponent(limite));
+        const texto = await r.text();
+        let corpo = texto;
+        try { corpo = JSON.stringify(JSON.parse(texto), null, 2); } catch (_) {}
+        saida.textContent = r.ok ? corpo : r.status + "\n" + corpo;
+        if (!r.ok) saida.className = "erro";
+      } catch (_) {
+        saida.className = "erro";
+        saida.textContent = "erro de rede";
+      }
+    });
+
+    const links = [...document.querySelectorAll("nav a")];
+    const secs = links.map((a) => document.querySelector(a.getAttribute("href")));
+    function marcar() {
+      let atual = secs[0];
+      for (const s of secs) {
+        if (s.getBoundingClientRect().top < 120) atual = s;
+      }
+      links.forEach((a) => a.classList.toggle("ativo", a.getAttribute("href") === "#" + atual.id));
+    }
+    marcar();
+    document.addEventListener("scroll", marcar, { passive: true });
+  </script>
+</body>
+</html>

@@ -1,0 +1,3320 @@
+{
+  "01221020": {
+    "latitude": -23.5448055,
+    "longitude": -46.6489263,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "01403001": {
+    "latitude": -23.5688723,
+    "longitude": -46.6535635,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "02992170": {
+    "latitude": -23.4506035,
+    "longitude": -46.7260416,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "03227000": {
+    "latitude": -23.589034,
+    "longitude": -46.5678575,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "03015000": {
+    "latitude": -23.5379922,
+    "longitude": -46.5980273,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "03807230": {
+    "latitude": -23.5005695,
+    "longitude": -46.4725856,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "03313000": {
+    "latitude": -23.5464879,
+    "longitude": -46.5580926,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "03975130": {
+    "latitude": -23.6099018,
+    "longitude": -46.4926956,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "02720200": {
+    "latitude": -23.489338,
+    "longitude": -46.6754536,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04003010": {
+    "latitude": -23.5713512,
+    "longitude": -46.6466116,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04004030": {
+    "latitude": -23.5737372,
+    "longitude": -46.6435593,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04024002": {
+    "latitude": -23.5975292,
+    "longitude": -46.6439599,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04037001": {
+    "latitude": -23.5957489,
+    "longitude": -46.6433566,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "00000000": {
+    "latitude": -21.7886713,
+    "longitude": -48.1773096,
+    "precisao": "cidade",
+    "cidade": "ARARAQUARA",
+    "uf": null
+  },
+  "04039004": {
+    "latitude": -23.5979956,
+    "longitude": -46.6477665,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04040033": {
+    "latitude": -23.5996444,
+    "longitude": -46.6380174,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04104080": {
+    "latitude": -23.5751783,
+    "longitude": -46.6391007,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04262000": {
+    "latitude": -23.5939524,
+    "longitude": -46.6100013,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04455170": {
+    "latitude": -23.6807412,
+    "longitude": -46.6784915,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04544000": {
+    "latitude": -23.5907975,
+    "longitude": -46.675016,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04552050": {
+    "latitude": -23.5935962,
+    "longitude": -46.6876829,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04802190": {
+    "latitude": -23.7067922,
+    "longitude": -46.7027307,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04810110": {
+    "latitude": -23.707462,
+    "longitude": -46.700365,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "04822030": {
+    "latitude": -23.7298257,
+    "longitude": -46.690185,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "05508900": {
+    "latitude": -23.5607873,
+    "longitude": -46.7224516,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "05403900": {
+    "latitude": -23.5575705,
+    "longitude": -46.6700529,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "06233020": {
+    "latitude": -23.5127482,
+    "longitude": -46.7884241,
+    "precisao": "cep",
+    "cidade": "Osasco",
+    "uf": "SP"
+  },
+  "05835005": {
+    "latitude": -23.6491411,
+    "longitude": -46.7527683,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "06854000": {
+    "latitude": -23.6969506,
+    "longitude": -46.842909,
+    "precisao": "cep",
+    "cidade": "Itapecerica da Serra",
+    "uf": "SP"
+  },
+  "05651901": {
+    "latitude": -23.5506507,
+    "longitude": -46.6333824,
+    "precisao": "cidade",
+    "cidade": "SAO PAULO",
+    "uf": null
+  },
+  "07114000": {
+    "latitude": -23.4549033,
+    "longitude": -46.5282752,
+    "precisao": "cep",
+    "cidade": "Guarulhos",
+    "uf": "SP"
+  },
+  "07190912": {
+    "latitude": -23.4498781,
+    "longitude": -46.4981632,
+    "precisao": "cep",
+    "cidade": "Guarulhos",
+    "uf": "SP"
+  },
+  "07901155": {
+    "latitude": -23.2886127,
+    "longitude": -46.7508894,
+    "precisao": "cep",
+    "cidade": "Francisco Morato",
+    "uf": "SP"
+  },
+  "08010220": {
+    "latitude": -23.4968994,
+    "longitude": -46.4369381,
+    "precisao": "cep",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "08780906": {
+    "latitude": -23.5211555,
+    "longitude": -46.1869046,
+    "precisao": "cep",
+    "cidade": "Mogi das Cruzes",
+    "uf": "SP"
+  },
+  "06717200": {
+    "latitude": -23.6091099,
+    "longitude": -46.9208887,
+    "precisao": "cep",
+    "cidade": "Cotia",
+    "uf": "SP"
+  },
+  "09190615": {
+    "latitude": -23.6705169,
+    "longitude": -46.5337471,
+    "precisao": "cep",
+    "cidade": "Santo André",
+    "uf": "SP"
+  },
+  "09270410": {
+    "latitude": -23.6355824,
+    "longitude": -46.499534,
+    "precisao": "cep",
+    "cidade": "Santo André",
+    "uf": "SP"
+  },
+  "09770420": {
+    "latitude": -23.7038787,
+    "longitude": -46.5447628,
+    "precisao": "cep",
+    "cidade": "São Bernardo do Campo",
+    "uf": "SP"
+  },
+  "07020180": {
+    "latitude": -23.4676744,
+    "longitude": -46.5385851,
+    "precisao": "cep",
+    "cidade": "Guarulhos",
+    "uf": "SP"
+  },
+  "11045101": {
+    "latitude": -23.9567995,
+    "longitude": -46.3221768,
+    "precisao": "cep",
+    "cidade": "Santos",
+    "uf": "SP"
+  },
+  "11610172": {
+    "latitude": -23.8092417,
+    "longitude": -45.4184622,
+    "precisao": "cep",
+    "cidade": "São Sebastião",
+    "uf": "SP"
+  },
+  "11660690": {
+    "latitude": -23.6269995,
+    "longitude": -45.418397,
+    "precisao": "cep",
+    "cidade": "Caraguatatuba",
+    "uf": "SP"
+  },
+  "11630000": {
+    "latitude": -23.8158392,
+    "longitude": -45.3664809,
+    "precisao": "cep",
+    "cidade": "Ilhabela",
+    "uf": "SP"
+  },
+  "11740000": {
+    "latitude": -24.1817994,
+    "longitude": -46.7850334,
+    "precisao": "cep",
+    "cidade": "Itanhaém",
+    "uf": "SP"
+  },
+  "11701210": {
+    "latitude": -24.0055714,
+    "longitude": -46.4165826,
+    "precisao": "cep",
+    "cidade": "Praia Grande",
+    "uf": "SP"
+  },
+  "12220280": {
+    "latitude": -23.1799986,
+    "longitude": -45.8575008,
+    "precisao": "cep",
+    "cidade": "São José dos Campos",
+    "uf": "SP"
+  },
+  "11750000": {
+    "latitude": -24.3124785,
+    "longitude": -47.0016573,
+    "precisao": "cep",
+    "cidade": "Peruíbe",
+    "uf": "SP"
+  },
+  "12945040": {
+    "latitude": -23.1175492,
+    "longitude": -46.5567066,
+    "precisao": "cep",
+    "cidade": "Atibaia",
+    "uf": "SP"
+  },
+  "13023910": {
+    "latitude": -22.9008608,
+    "longitude": -47.063665,
+    "precisao": "cep",
+    "cidade": "Campinas",
+    "uf": "SP"
+  },
+  "13083881": {
+    "latitude": -22.8276293,
+    "longitude": -47.0644287,
+    "precisao": "cep",
+    "cidade": "Campinas",
+    "uf": "SP"
+  },
+  "13175490": {
+    "latitude": -22.8152505,
+    "longitude": -47.2406407,
+    "precisao": "cep",
+    "cidade": "Sumaré",
+    "uf": "SP"
+  },
+  "13207460": {
+    "latitude": -23.2043355,
+    "longitude": -46.8920712,
+    "precisao": "cep",
+    "cidade": "Jundiaí",
+    "uf": "SP"
+  },
+  "13300025": {
+    "latitude": -23.2702582,
+    "longitude": -47.2948755,
+    "precisao": "cep",
+    "cidade": "Itu",
+    "uf": "SP"
+  },
+  "13405233": {
+    "latitude": -22.7109508,
+    "longitude": -47.6568029,
+    "precisao": "cep",
+    "cidade": "Piracicaba",
+    "uf": "SP"
+  },
+  "13480042": {
+    "latitude": -22.5637187,
+    "longitude": -47.4037643,
+    "precisao": "cep",
+    "cidade": "Limeira",
+    "uf": "SP"
+  },
+  "13480470": {
+    "latitude": -22.5793195,
+    "longitude": -47.4006057,
+    "precisao": "cep",
+    "cidade": "Limeira",
+    "uf": "SP"
+  },
+  "13483132": {
+    "latitude": -22.5609786,
+    "longitude": -47.4508895,
+    "precisao": "cep",
+    "cidade": "Limeira",
+    "uf": "SP"
+  },
+  "13500010": {
+    "latitude": -22.28108,
+    "longitude": -47.55057,
+    "precisao": "cep",
+    "cidade": "Rio Claro",
+    "uf": "SP"
+  },
+  "13561060": {
+    "latitude": -22.0100576,
+    "longitude": -47.9008417,
+    "precisao": "cep",
+    "cidade": "São Carlos",
+    "uf": "SP"
+  },
+  "13976024": {
+    "latitude": -22.4326589,
+    "longitude": -46.8262863,
+    "precisao": "cep",
+    "cidade": "Itapira",
+    "uf": "SP"
+  },
+  "14070250": {
+    "latitude": -21.1231124,
+    "longitude": -47.79204,
+    "precisao": "cep",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP"
+  },
+  "13800200": {
+    "latitude": -22.4380709,
+    "longitude": -46.9591555,
+    "precisao": "cep",
+    "cidade": "Mogi Mirim",
+    "uf": "SP"
+  },
+  "14051140": {
+    "latitude": -21.1697516,
+    "longitude": -47.8370145,
+    "precisao": "cep",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP"
+  },
+  "14080370": {
+    "latitude": -21.1606438,
+    "longitude": -47.7994113,
+    "precisao": "cep",
+    "cidade": "Ribeirão Preto",
+    "uf": "SP"
+  },
+  "14400715": {
+    "latitude": -20.5379418,
+    "longitude": -47.3986539,
+    "precisao": "cep",
+    "cidade": "Franca",
+    "uf": "SP"
+  },
+  "15025310": {
+    "latitude": -20.8105571,
+    "longitude": -49.4021893,
+    "precisao": "cep",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP"
+  },
+  "15025500": {
+    "latitude": -20.8067911,
+    "longitude": -49.3893983,
+    "precisao": "cep",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP"
+  },
+  "15030790": {
+    "latitude": -20.7971928,
+    "longitude": -49.3771789,
+    "precisao": "cep",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP"
+  },
+  "15091240": {
+    "latitude": -20.8279397,
+    "longitude": -49.4018771,
+    "precisao": "cep",
+    "cidade": "São José do Rio Preto",
+    "uf": "SP"
+  },
+  "15500003": {
+    "latitude": -20.4237863,
+    "longitude": -49.9753274,
+    "precisao": "cep",
+    "cidade": "Votuporanga",
+    "uf": "SP"
+  },
+  "15505171": {
+    "latitude": -20.4216195,
+    "longitude": -49.9719352,
+    "precisao": "cep",
+    "cidade": "Votuporanga",
+    "uf": "SP"
+  },
+  "14400000": {
+    "latitude": -20.5381768,
+    "longitude": -47.4009795,
+    "precisao": "cidade",
+    "cidade": "FRANCA",
+    "uf": null
+  },
+  "15700082": {
+    "latitude": -20.2697158,
+    "longitude": -50.5505011,
+    "precisao": "cep",
+    "cidade": "Jales",
+    "uf": "SP"
+  },
+  "15900000": {
+    "latitude": -21.4069762,
+    "longitude": -48.5052392,
+    "precisao": "cep",
+    "cidade": "Taquaritinga",
+    "uf": "SP"
+  },
+  "15800280": {
+    "latitude": -21.1396415,
+    "longitude": -48.9790433,
+    "precisao": "cep",
+    "cidade": "Catanduva",
+    "uf": "SP"
+  },
+  "15990060": {
+    "latitude": -21.6044666,
+    "longitude": -48.3688113,
+    "precisao": "cep",
+    "cidade": "Matão",
+    "uf": "SP"
+  },
+  "16015030": {
+    "latitude": -21.2079648,
+    "longitude": -50.4340969,
+    "precisao": "cep",
+    "cidade": "Araçatuba",
+    "uf": "SP"
+  },
+  "16055510": {
+    "latitude": -21.1940037,
+    "longitude": -50.4298451,
+    "precisao": "cep",
+    "cidade": "Araçatuba",
+    "uf": "SP"
+  },
+  "16300027": {
+    "latitude": -21.4195545,
+    "longitude": -50.0686103,
+    "precisao": "cep",
+    "cidade": "Penápolis",
+    "uf": "SP"
+  },
+  "16400400": {
+    "latitude": -21.6816403,
+    "longitude": -49.7603348,
+    "precisao": "cep",
+    "cidade": "Lins",
+    "uf": "SP"
+  },
+  "17012055": {
+    "latitude": -22.3285509,
+    "longitude": -49.0671718,
+    "precisao": "cep",
+    "cidade": "Bauru",
+    "uf": "SP"
+  },
+  "17012202": {
+    "latitude": -22.3327939,
+    "longitude": -49.05584,
+    "precisao": "cep",
+    "cidade": "Bauru",
+    "uf": "SP"
+  },
+  "16403105": {
+    "latitude": -21.6790372,
+    "longitude": -49.7433696,
+    "precisao": "cep",
+    "cidade": "Lins",
+    "uf": "SP"
+  },
+  "17120072": {
+    "latitude": -22.47638,
+    "longitude": -48.99042,
+    "precisao": "cep",
+    "cidade": "Agudos",
+    "uf": "SP"
+  },
+  "17201340": {
+    "latitude": -22.2926536,
+    "longitude": -48.5611501,
+    "precisao": "cep",
+    "cidade": "Jaú",
+    "uf": "SP"
+  },
+  "17420000": {
+    "latitude": -22.4150678,
+    "longitude": -49.8184878,
+    "precisao": "cep",
+    "cidade": "Lupércio",
+    "uf": "SP"
+  },
+  "17430000": {
+    "latitude": -22.440495,
+    "longitude": -49.7655737,
+    "precisao": "cep",
+    "cidade": "Alvinlândia",
+    "uf": "SP"
+  },
+  "17501450": {
+    "latitude": -22.221388,
+    "longitude": -49.949947,
+    "precisao": "cep",
+    "cidade": "Marília",
+    "uf": "SP"
+  },
+  "17540000": {
+    "latitude": -22.448694,
+    "longitude": -49.916189,
+    "precisao": "cep",
+    "cidade": "Ocauçu",
+    "uf": "SP"
+  },
+  "17570000": {
+    "latitude": -22.1539025,
+    "longitude": -50.0948622,
+    "precisao": "cep",
+    "cidade": "Oriente",
+    "uf": "SP"
+  },
+  "17580000": {
+    "latitude": -22.1007393,
+    "longitude": -50.1858252,
+    "precisao": "cep",
+    "cidade": "Pompéia",
+    "uf": "SP"
+  },
+  "17601901": {
+    "latitude": -21.923956,
+    "longitude": -50.5182037,
+    "precisao": "cep",
+    "cidade": "Tupã",
+    "uf": "SP"
+  },
+  "17670000": {
+    "latitude": -22.0695288,
+    "longitude": -50.3060827,
+    "precisao": "cep",
+    "cidade": "Quintana",
+    "uf": "SP"
+  },
+  "17780000": {
+    "latitude": -21.7232136,
+    "longitude": -51.01980690000001,
+    "precisao": "cep",
+    "cidade": "Lucélia",
+    "uf": "SP"
+  },
+  "17702446": {
+    "latitude": -21.79612,
+    "longitude": -50.88573,
+    "precisao": "cep",
+    "cidade": "Osvaldo Cruz",
+    "uf": "SP"
+  },
+  "17800000": {
+    "latitude": -21.6824831,
+    "longitude": -51.0741711,
+    "precisao": "cep",
+    "cidade": "Adamantina",
+    "uf": "SP"
+  },
+  "17860000": {
+    "latitude": -21.4884964,
+    "longitude": -51.2841298,
+    "precisao": "cep",
+    "cidade": "Pacaembu",
+    "uf": "SP"
+  },
+  "18030083": {
+    "latitude": -23.5090784,
+    "longitude": -47.4578928,
+    "precisao": "cep",
+    "cidade": "Sorocaba",
+    "uf": "SP"
+  },
+  "18013000": {
+    "latitude": -23.4902317,
+    "longitude": -47.4295633,
+    "precisao": "cep",
+    "cidade": "Sorocaba",
+    "uf": "SP"
+  },
+  "18060450": {
+    "latitude": -23.4946586,
+    "longitude": -47.4716368,
+    "precisao": "cep",
+    "cidade": "Sorocaba",
+    "uf": "SP"
+  },
+  "18400030": {
+    "latitude": -23.987936,
+    "longitude": -48.8759913,
+    "precisao": "cep",
+    "cidade": "Itapeva",
+    "uf": "SP"
+  },
+  "18900000": {
+    "latitude": -22.7972749,
+    "longitude": -49.5687416,
+    "precisao": "cep",
+    "cidade": "Santa Cruz do Rio Pardo",
+    "uf": "SP"
+  },
+  "18618687": {
+    "latitude": -22.8890401,
+    "longitude": -48.4961881,
+    "precisao": "cep",
+    "cidade": "Botucatu",
+    "uf": "SP"
+  },
+  "19061395": {
+    "latitude": -22.12903,
+    "longitude": -51.40418,
+    "precisao": "cep",
+    "cidade": "Presidente Prudente",
+    "uf": "SP"
+  },
+  "19700043": {
+    "latitude": -22.41096,
+    "longitude": -50.57666,
+    "precisao": "cep",
+    "cidade": "Paraguaçu Paulista",
+    "uf": "SP"
+  },
+  "19880000": {
+    "latitude": -22.7466667,
+    "longitude": -50.3880476,
+    "precisao": "cep",
+    "cidade": "Cândido Mota",
+    "uf": "SP"
+  },
+  "19814015": {
+    "latitude": -22.6602822,
+    "longitude": -50.4099161,
+    "precisao": "cep",
+    "cidade": "Assis",
+    "uf": "SP"
+  },
+  "19900241": {
+    "latitude": -22.9835755,
+    "longitude": -49.8637986,
+    "precisao": "cep",
+    "cidade": "Ourinhos",
+    "uf": "SP"
+  },
+  "19960000": {
+    "latitude": -22.6024175,
+    "longitude": -49.9992292,
+    "precisao": "cep",
+    "cidade": "Campos Novos Paulista",
+    "uf": "SP"
+  },
+  "20211340": {
+    "latitude": -22.9087546,
+    "longitude": -43.1916665,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20211360": {
+    "latitude": -22.9069485,
+    "longitude": -43.1885111,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20221161": {
+    "latitude": -22.8971189,
+    "longitude": -43.1904418,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20550170": {
+    "latitude": -22.9137067,
+    "longitude": -43.2341342,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20720292": {
+    "latitude": -22.9124678,
+    "longitude": -43.2945838,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20911270": {
+    "latitude": -22.8940391,
+    "longitude": -43.2417624,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20921400": {
+    "latitude": -22.8948021,
+    "longitude": -43.2256343,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "20931005": {
+    "latitude": -22.8789018,
+    "longitude": -43.2244566,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "21041030": {
+    "latitude": -22.8672722,
+    "longitude": -43.2518111,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "21610645": {
+    "latitude": -22.864468,
+    "longitude": -43.3712255,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "21730230": {
+    "latitude": -22.8637146,
+    "longitude": -43.4366364,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22250020": {
+    "latitude": -22.9415356,
+    "longitude": -43.172887,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "21830006": {
+    "latitude": -22.8761965,
+    "longitude": -43.4720045,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22240003": {
+    "latitude": -22.934498,
+    "longitude": -43.1875152,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22753039": {
+    "latitude": -22.979569,
+    "longitude": -43.333361,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22765820": {
+    "latitude": -22.9586935,
+    "longitude": -43.3431108,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22775040": {
+    "latitude": -22.9730416,
+    "longitude": -43.3831193,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "22793000": {
+    "latitude": -22.9876504,
+    "longitude": -43.3654457,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "24033900": {
+    "latitude": -22.8952504,
+    "longitude": -43.112532,
+    "precisao": "cep",
+    "cidade": "Niterói",
+    "uf": "RJ"
+  },
+  "23050100": {
+    "latitude": -22.90401,
+    "longitude": -43.55419,
+    "precisao": "cep",
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ"
+  },
+  "24942395": {
+    "latitude": -22.9413844,
+    "longitude": -42.9279621,
+    "precisao": "cep",
+    "cidade": "Maricá",
+    "uf": "RJ"
+  },
+  "25565171": {
+    "latitude": -22.7701745,
+    "longitude": -43.3581458,
+    "precisao": "cep",
+    "cidade": "São João de Meriti",
+    "uf": "RJ"
+  },
+  "25720320": {
+    "latitude": -22.7978855,
+    "longitude": -43.4287835,
+    "precisao": "cep",
+    "cidade": "Petrópolis",
+    "uf": "RJ"
+  },
+  "25660290": {
+    "latitude": -22.5151415,
+    "longitude": -43.2062301,
+    "precisao": "cep",
+    "cidade": "Petrópolis",
+    "uf": "RJ"
+  },
+  "26572530": {
+    "latitude": -22.7813944,
+    "longitude": -43.4066203,
+    "precisao": "cep",
+    "cidade": "Mesquita",
+    "uf": "RJ"
+  },
+  "25211970": {
+    "latitude": -22.6429163,
+    "longitude": -43.3021266,
+    "precisao": "cidade",
+    "cidade": "DUQUE DE CAXIAS",
+    "uf": null
+  },
+  "27323240": {
+    "latitude": -22.5389977,
+    "longitude": -44.1716717,
+    "precisao": "cep",
+    "cidade": "Barra Mansa",
+    "uf": "RJ"
+  },
+  "28025496": {
+    "latitude": -21.7700424,
+    "longitude": -41.3307511,
+    "precisao": "cep",
+    "cidade": "Campos dos Goytacazes",
+    "uf": "RJ"
+  },
+  "28610410": {
+    "latitude": -22.2823078,
+    "longitude": -42.5299992,
+    "precisao": "cep",
+    "cidade": "Nova Friburgo",
+    "uf": "RJ"
+  },
+  "27253619": {
+    "latitude": -22.521856,
+    "longitude": -44.1040128,
+    "precisao": "cidade",
+    "cidade": "VOLTA REDONDA",
+    "uf": null
+  },
+  "28800000": {
+    "latitude": -22.7186089,
+    "longitude": -42.6279835,
+    "precisao": "cep",
+    "cidade": "Rio Bonito",
+    "uf": "RJ"
+  },
+  "29040091": {
+    "latitude": -20.29933,
+    "longitude": -40.3163,
+    "precisao": "cep",
+    "cidade": "Vitória",
+    "uf": "ES"
+  },
+  "29050720": {
+    "latitude": -20.316162,
+    "longitude": -40.309595,
+    "precisao": "cep",
+    "cidade": "Vitória",
+    "uf": "ES"
+  },
+  "29017022": {
+    "latitude": -20.3175364,
+    "longitude": -40.3245055,
+    "precisao": "cep",
+    "cidade": "Vitória",
+    "uf": "ES"
+  },
+  "29101010": {
+    "latitude": -20.342083,
+    "longitude": -40.2836927,
+    "precisao": "cep",
+    "cidade": "Vila Velha",
+    "uf": "ES"
+  },
+  "29106010": {
+    "latitude": -20.3482068,
+    "longitude": -40.3074054,
+    "precisao": "cep",
+    "cidade": "Vila Velha",
+    "uf": "ES"
+  },
+  "29168088": {
+    "latitude": -20.192926,
+    "longitude": -40.2576,
+    "precisao": "cep",
+    "cidade": "Serra",
+    "uf": "ES"
+  },
+  "29300070": {
+    "latitude": -20.8510242,
+    "longitude": -41.112812,
+    "precisao": "cep",
+    "cidade": "Cachoeiro de Itapemirim",
+    "uf": "ES"
+  },
+  "30110130": {
+    "latitude": -19.9137859,
+    "longitude": -43.9381328,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "29701400": {
+    "latitude": -19.5396691,
+    "longitude": -40.6297607,
+    "precisao": "cep",
+    "cidade": "Colatina",
+    "uf": "ES"
+  },
+  "30130100": {
+    "latitude": -19.9252809,
+    "longitude": -43.9291852,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "30610720": {
+    "latitude": -19.9741968,
+    "longitude": -43.9924994,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "31110430": {
+    "latitude": -19.9035651,
+    "longitude": -43.9440714,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "30280050": {
+    "latitude": -19.9069908,
+    "longitude": -43.9072959,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "31744012": {
+    "latitude": -19.8185003,
+    "longitude": -43.9482878,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "32600412": {
+    "latitude": -19.9695326,
+    "longitude": -44.2072045,
+    "precisao": "cep",
+    "cidade": "Betim",
+    "uf": "MG"
+  },
+  "31844340": {
+    "latitude": -19.8351697,
+    "longitude": -43.9147875,
+    "precisao": "cep",
+    "cidade": "Belo Horizonte",
+    "uf": "MG"
+  },
+  "32341001": {
+    "latitude": -19.933706,
+    "longitude": -44.0630225,
+    "precisao": "cep",
+    "cidade": "Contagem",
+    "uf": "MG"
+  },
+  "34004484": {
+    "latitude": -19.9978916,
+    "longitude": -43.8871863,
+    "precisao": "cep",
+    "cidade": "Nova Lima",
+    "uf": "MG"
+  },
+  "32400000": {
+    "latitude": -20.0256695,
+    "longitude": -44.0572964,
+    "precisao": "cep",
+    "cidade": "Ibirité",
+    "uf": "MG"
+  },
+  "35020600": {
+    "latitude": -18.8536675,
+    "longitude": -41.9394016,
+    "precisao": "cep",
+    "cidade": "Governador Valadares",
+    "uf": "MG"
+  },
+  "35500227": {
+    "latitude": -20.1414284,
+    "longitude": -44.8752809,
+    "precisao": "cep",
+    "cidade": "Divinópolis",
+    "uf": "MG"
+  },
+  "35701007": {
+    "latitude": -19.4487717,
+    "longitude": -44.2302387,
+    "precisao": "cep",
+    "cidade": "Sete Lagoas",
+    "uf": "MG"
+  },
+  "35930437": {
+    "latitude": -19.8265741,
+    "longitude": -43.1445947,
+    "precisao": "cep",
+    "cidade": "João Monlevade",
+    "uf": "MG"
+  },
+  "36010041": {
+    "latitude": -21.7637919,
+    "longitude": -43.3472546,
+    "precisao": "cep",
+    "cidade": "Juiz de Fora",
+    "uf": "MG"
+  },
+  "36021630": {
+    "latitude": -21.7767218,
+    "longitude": -43.3457614,
+    "precisao": "cep",
+    "cidade": "Juiz de Fora",
+    "uf": "MG"
+  },
+  "36048000": {
+    "latitude": -21.7767,
+    "longitude": -43.34727,
+    "precisao": "cep",
+    "cidade": "Juiz de Fora",
+    "uf": "MG"
+  },
+  "36202290": {
+    "latitude": -21.2133518,
+    "longitude": -43.7726659,
+    "precisao": "cep",
+    "cidade": "Barbacena",
+    "uf": "MG"
+  },
+  "36500000": {
+    "latitude": -21.120123,
+    "longitude": -42.9426188,
+    "precisao": "cep",
+    "cidade": "Ubá",
+    "uf": "MG"
+  },
+  "36570031": {
+    "latitude": -20.75282,
+    "longitude": -42.88491,
+    "precisao": "cep",
+    "cidade": "Viçosa",
+    "uf": "MG"
+  },
+  "36307318": {
+    "latitude": -21.1357625,
+    "longitude": -44.2571077,
+    "precisao": "cep",
+    "cidade": "São João Del Rei",
+    "uf": "MG"
+  },
+  "36700000": {
+    "latitude": -21.5301251,
+    "longitude": -42.642529,
+    "precisao": "cep",
+    "cidade": "Leopoldina",
+    "uf": "MG"
+  },
+  "37130000": {
+    "latitude": -21.43609,
+    "longitude": -45.94481,
+    "precisao": "cep",
+    "cidade": "Alfenas",
+    "uf": "MG"
+  },
+  "37002140": {
+    "latitude": -21.5571937,
+    "longitude": -45.4403259,
+    "precisao": "cep",
+    "cidade": "Varginha",
+    "uf": "MG"
+  },
+  "37132202": {
+    "latitude": -21.4408808,
+    "longitude": -45.947442,
+    "precisao": "cep",
+    "cidade": "Alfenas",
+    "uf": "MG"
+  },
+  "37410000": {
+    "latitude": -21.692578,
+    "longitude": -45.2515461,
+    "precisao": "cep",
+    "cidade": "Três Corações",
+    "uf": "MG"
+  },
+  "37470000": {
+    "latitude": -22.1123693,
+    "longitude": -45.027985,
+    "precisao": "cep",
+    "cidade": "São Lourenço",
+    "uf": "MG"
+  },
+  "37550000": {
+    "latitude": -22.2480373,
+    "longitude": -45.9420118,
+    "precisao": "cep",
+    "cidade": "Pouso Alegre",
+    "uf": "MG"
+  },
+  "37904020": {
+    "latitude": -20.7138963,
+    "longitude": -46.6131935,
+    "precisao": "cep",
+    "cidade": "Passos",
+    "uf": "MG"
+  },
+  "36025330": {
+    "latitude": -21.7770367,
+    "longitude": -43.3594512,
+    "precisao": "cep",
+    "cidade": "Juiz de Fora",
+    "uf": "MG"
+  },
+  "37950000": {
+    "latitude": -20.917221,
+    "longitude": -46.984069,
+    "precisao": "cep",
+    "cidade": "São Sebastião do Paraíso",
+    "uf": "MG"
+  },
+  "38050501": {
+    "latitude": -19.7649147,
+    "longitude": -47.9619277,
+    "precisao": "cep",
+    "cidade": "Uberaba",
+    "uf": "MG"
+  },
+  "38405318": {
+    "latitude": -18.8878582,
+    "longitude": -48.263334,
+    "precisao": "cep",
+    "cidade": "Uberlândia",
+    "uf": "MG"
+  },
+  "39100000": {
+    "latitude": -18.2474542,
+    "longitude": -43.6012135,
+    "precisao": "cep",
+    "cidade": "Diamantina",
+    "uf": "MG"
+  },
+  "38440036": {
+    "latitude": -18.6434802,
+    "longitude": -48.184422,
+    "precisao": "cep",
+    "cidade": "Araguari",
+    "uf": "MG"
+  },
+  "38740120": {
+    "latitude": -18.9380278,
+    "longitude": -46.9942511,
+    "precisao": "cep",
+    "cidade": "Patrocínio",
+    "uf": "MG"
+  },
+  "39270000": {
+    "latitude": -17.3488693,
+    "longitude": -44.9468088,
+    "precisao": "cep",
+    "cidade": "Pirapora",
+    "uf": "MG"
+  },
+  "39400000": {
+    "latitude": -16.72306,
+    "longitude": -43.86521,
+    "precisao": "cep",
+    "cidade": "Montes Claros",
+    "uf": "MG"
+  },
+  "39330000": {
+    "latitude": -16.2131693,
+    "longitude": -44.433649,
+    "precisao": "cep",
+    "cidade": "Brasília de Minas",
+    "uf": "MG"
+  },
+  "39400162": {
+    "latitude": -16.7028507,
+    "longitude": -43.8678713,
+    "precisao": "cep",
+    "cidade": "Montes Claros",
+    "uf": "MG"
+  },
+  "39401222": {
+    "latitude": -16.6974038,
+    "longitude": -43.8650641,
+    "precisao": "cep",
+    "cidade": "Montes Claros",
+    "uf": "MG"
+  },
+  "40055150": {
+    "latitude": -12.9721964,
+    "longitude": -38.5014109,
+    "precisao": "cep",
+    "cidade": "Salvador",
+    "uf": "BA"
+  },
+  "40276150": {
+    "latitude": -12.9860584,
+    "longitude": -38.4757762,
+    "precisao": "cep",
+    "cidade": "Salvador",
+    "uf": "BA"
+  },
+  "40300450": {
+    "latitude": -12.9419466,
+    "longitude": -38.4981033,
+    "precisao": "cep",
+    "cidade": "Salvador",
+    "uf": "BA"
+  },
+  "40310740": {
+    "latitude": -12.9628024,
+    "longitude": -38.4832857,
+    "precisao": "cep",
+    "cidade": "Salvador",
+    "uf": "BA"
+  },
+  "41180780": {
+    "latitude": -12.9576957,
+    "longitude": -38.4472774,
+    "precisao": "cep",
+    "cidade": "Salvador",
+    "uf": "BA"
+  },
+  "44024366": {
+    "latitude": -12.242508,
+    "longitude": -38.9782731,
+    "precisao": "cep",
+    "cidade": "Feira de Santana",
+    "uf": "BA"
+  },
+  "44094000": {
+    "latitude": -12.2793672,
+    "longitude": -38.9415794,
+    "precisao": "cep",
+    "cidade": "Feira de Santana",
+    "uf": "BA"
+  },
+  "45065540": {
+    "latitude": -14.8724441,
+    "longitude": -40.8626106,
+    "precisao": "cep",
+    "cidade": "Vitória da Conquista",
+    "uf": "BA"
+  },
+  "38100000": {
+    "latitude": -19.750833,
+    "longitude": -47.936666,
+    "precisao": "cidade",
+    "cidade": "UBERABA",
+    "uf": null
+  },
+  "45204040": {
+    "latitude": -13.8342098,
+    "longitude": -40.0814133,
+    "precisao": "cep",
+    "cidade": "Jequié",
+    "uf": "BA"
+  },
+  "45603305": {
+    "latitude": -14.7825499,
+    "longitude": -39.2696035,
+    "precisao": "cep",
+    "cidade": "Itabuna",
+    "uf": "BA"
+  },
+  "46430000": {
+    "latitude": -14.2193381,
+    "longitude": -42.7796907,
+    "precisao": "cep",
+    "cidade": "Guanambi",
+    "uf": "BA"
+  },
+  "49003247": {
+    "latitude": -10.9869415,
+    "longitude": -37.0992287,
+    "precisao": "cep",
+    "cidade": "Aracaju",
+    "uf": "SE"
+  },
+  "49060640": {
+    "latitude": -10.9030054,
+    "longitude": -37.0579793,
+    "precisao": "cep",
+    "cidade": "Aracaju",
+    "uf": "SE"
+  },
+  "49085220": {
+    "latitude": -10.9062443,
+    "longitude": -37.0798672,
+    "precisao": "cep",
+    "cidade": "Aracaju",
+    "uf": "SE"
+  },
+  "49500000": {
+    "latitude": -10.68631,
+    "longitude": -37.4246,
+    "precisao": "cep",
+    "cidade": "Itabaiana",
+    "uf": "SE"
+  },
+  "50070230": {
+    "latitude": -8.0611334,
+    "longitude": -34.8949649,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "49400000": {
+    "latitude": -10.9141032,
+    "longitude": -37.6692881,
+    "precisao": "cep",
+    "cidade": "Lagarto",
+    "uf": "SE"
+  },
+  "50070550": {
+    "latitude": -8.0674746,
+    "longitude": -34.8902834,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "50731000": {
+    "latitude": -8.0472658,
+    "longitude": -34.9270223,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "50740900": {
+    "latitude": -8.0489962,
+    "longitude": -34.9453693,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "50770400": {
+    "latitude": -8.0791406,
+    "longitude": -34.9102152,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "50751530": {
+    "latitude": -8.064603,
+    "longitude": -34.9222656,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "47810894": {
+    "latitude": -12.1291675,
+    "longitude": -45.0053989,
+    "precisao": "cep",
+    "cidade": "Barreiras",
+    "uf": "BA"
+  },
+  "50780627": {
+    "latitude": -8.1064695,
+    "longitude": -34.9486205,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "51230000": {
+    "latitude": -8.108726,
+    "longitude": -34.9284541,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "52010040": {
+    "latitude": -8.056982,
+    "longitude": -34.8977316,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "52030010": {
+    "latitude": -8.0378262,
+    "longitude": -34.8877757,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "52051380": {
+    "latitude": -8.0272589,
+    "longitude": -34.9145145,
+    "precisao": "cep",
+    "cidade": "Recife",
+    "uf": "PE"
+  },
+  "54340740": {
+    "latitude": -8.163941,
+    "longitude": -34.9317145,
+    "precisao": "cep",
+    "cidade": "Jaboatão dos Guararapes",
+    "uf": "PE"
+  },
+  "57025640": {
+    "latitude": -9.6593753,
+    "longitude": -35.7259223,
+    "precisao": "cep",
+    "cidade": "Maceió",
+    "uf": "AL"
+  },
+  "56304900": {
+    "latitude": -9.397854,
+    "longitude": -40.4996359,
+    "precisao": "cep",
+    "cidade": "Petrolina",
+    "uf": "PE"
+  },
+  "57025000": {
+    "latitude": -9.6620292,
+    "longitude": -35.72387,
+    "precisao": "cep",
+    "cidade": "Maceió",
+    "uf": "AL"
+  },
+  "57072970": {
+    "latitude": -9.5265963,
+    "longitude": -35.7994081,
+    "precisao": "cep",
+    "cidade": "Maceió",
+    "uf": "AL"
+  },
+  "57240000": {
+    "latitude": -9.7625469,
+    "longitude": -36.1328132,
+    "precisao": "cep",
+    "cidade": "São Miguel dos Campos",
+    "uf": "AL"
+  },
+  "57300040": {
+    "latitude": -9.7525867,
+    "longitude": -36.6648812,
+    "precisao": "cep",
+    "cidade": "Arapiraca",
+    "uf": "AL"
+  },
+  "57601370": {
+    "latitude": -9.4113775,
+    "longitude": -36.6337609,
+    "precisao": "cep",
+    "cidade": "Palmeira dos Índios",
+    "uf": "AL"
+  },
+  "58013430": {
+    "latitude": -7.1231023,
+    "longitude": -34.8741761,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58013520": {
+    "latitude": -7.1261214,
+    "longitude": -34.8786425,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58040043": {
+    "latitude": -7.1312349,
+    "longitude": -34.8595054,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58040300": {
+    "latitude": -7.1260859,
+    "longitude": -34.8493921,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58002502": {
+    "latitude": -7.1215981,
+    "longitude": -34.882028,
+    "precisao": "cidade",
+    "cidade": "JOAO PESSOA",
+    "uf": null
+  },
+  "58040530": {
+    "latitude": -7.1313667,
+    "longitude": -34.8596789,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58040760": {
+    "latitude": -7.122711,
+    "longitude": -34.8593915,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58050585": {
+    "latitude": -7.1400883,
+    "longitude": -34.8438764,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58085000": {
+    "latitude": -7.1431676,
+    "longitude": -34.8906325,
+    "precisao": "cep",
+    "cidade": "João Pessoa",
+    "uf": "PB"
+  },
+  "58101070": {
+    "latitude": -7.2210479,
+    "longitude": -35.8856038,
+    "precisao": "cep",
+    "cidade": "Cabedelo",
+    "uf": "PB"
+  },
+  "58110300": {
+    "latitude": -7.12098,
+    "longitude": -34.92952,
+    "precisao": "cep",
+    "cidade": "Bayeux",
+    "uf": "PB"
+  },
+  "57084615": {
+    "latitude": -9.5430837,
+    "longitude": -35.7186746,
+    "precisao": "cep",
+    "cidade": "Maceió",
+    "uf": "AL"
+  },
+  "58200000": {
+    "latitude": -6.8512622,
+    "longitude": -35.4922252,
+    "precisao": "cep",
+    "cidade": "Guarabira",
+    "uf": "PB"
+  },
+  "58225000": {
+    "latitude": -6.758019,
+    "longitude": -35.6595757,
+    "precisao": "cep",
+    "cidade": "Solânea",
+    "uf": "PB"
+  },
+  "58434505": {
+    "latitude": -7.24271,
+    "longitude": -35.92958,
+    "precisao": "cep",
+    "cidade": "Campina Grande",
+    "uf": "PB"
+  },
+  "58600000": {
+    "latitude": -6.8717978,
+    "longitude": -36.9213101,
+    "precisao": "cep",
+    "cidade": "Santa Luzia",
+    "uf": "PB"
+  },
+  "58441074": {
+    "latitude": -7.2246743,
+    "longitude": -35.8771292,
+    "precisao": "cidade",
+    "cidade": "CAMPINA GRANDE",
+    "uf": null
+  },
+  "58701300": {
+    "latitude": -7.0344538,
+    "longitude": -37.2884652,
+    "precisao": "cep",
+    "cidade": "Patos",
+    "uf": "PB"
+  },
+  "58780000": {
+    "latitude": -7.2818129,
+    "longitude": -38.1899782,
+    "precisao": "cep",
+    "cidade": "Itaporanga",
+    "uf": "PB"
+  },
+  "58840000": {
+    "latitude": -6.7708458,
+    "longitude": -37.7973839,
+    "precisao": "cep",
+    "cidade": "Pombal",
+    "uf": "PB"
+  },
+  "58802180": {
+    "latitude": -6.7638202,
+    "longitude": -38.2224797,
+    "precisao": "cep",
+    "cidade": "Sousa",
+    "uf": "PB"
+  },
+  "58900000": {
+    "latitude": -6.8897071,
+    "longitude": -38.5612185,
+    "precisao": "cep",
+    "cidade": "Cajazeiras",
+    "uf": "PB"
+  },
+  "58500000": {
+    "latitude": -7.8887727,
+    "longitude": -37.1171012,
+    "precisao": "cep",
+    "cidade": "Monteiro",
+    "uf": "PB"
+  },
+  "59012300": {
+    "latitude": -5.7820142,
+    "longitude": -35.1980489,
+    "precisao": "cep",
+    "cidade": "Natal",
+    "uf": "RN"
+  },
+  "59110390": {
+    "latitude": -5.7262527,
+    "longitude": -35.2452864,
+    "precisao": "cep",
+    "cidade": "Natal",
+    "uf": "RN"
+  },
+  "59020505": {
+    "latitude": -5.7974893,
+    "longitude": -35.2049741,
+    "precisao": "cep",
+    "cidade": "Natal",
+    "uf": "RN"
+  },
+  "58600220": {
+    "latitude": -7.2246743,
+    "longitude": -35.8771292,
+    "precisao": "cidade",
+    "cidade": "CAMPINA GRANDE",
+    "uf": null
+  },
+  "59140020": {
+    "latitude": -5.9105664,
+    "longitude": -35.2595179,
+    "precisao": "cep",
+    "cidade": "Parnamirim",
+    "uf": "RN"
+  },
+  "59114275": {
+    "latitude": -5.7562223,
+    "longitude": -35.2636893,
+    "precisao": "cep",
+    "cidade": "Natal",
+    "uf": "RN"
+  },
+  "59200000": {
+    "latitude": -6.2239132,
+    "longitude": -36.0202284,
+    "precisao": "cep",
+    "cidade": "Santa Cruz",
+    "uf": "RN"
+  },
+  "59015530": {
+    "latitude": -5.805398,
+    "longitude": -35.2080905,
+    "precisao": "cidade",
+    "cidade": "NATAL",
+    "uf": null
+  },
+  "59300000": {
+    "latitude": -6.4599655,
+    "longitude": -37.0936867,
+    "precisao": "cep",
+    "cidade": "Caicó",
+    "uf": "RN"
+  },
+  "60015061": {
+    "latitude": -3.7352993,
+    "longitude": -38.5380516,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60015052": {
+    "latitude": -3.7348979,
+    "longitude": -38.5367799,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "59625620": {
+    "latitude": -5.2018333,
+    "longitude": -37.3232075,
+    "precisao": "cep",
+    "cidade": "Mossoró",
+    "uf": "RN"
+  },
+  "60055172": {
+    "latitude": -3.7453701,
+    "longitude": -38.5221544,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60110000": {
+    "latitude": -3.7316248,
+    "longitude": -38.5196871,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60130830": {
+    "latitude": -3.7582564,
+    "longitude": -38.5056335,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "59600000": {
+    "latitude": -5.1904332,
+    "longitude": -37.3443872,
+    "precisao": "cidade",
+    "cidade": "MOSSORO",
+    "uf": null
+  },
+  "60150160": {
+    "latitude": -3.7295362,
+    "longitude": -38.5190159,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60160280": {
+    "latitude": -3.7294352,
+    "longitude": -38.5143081,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60336830": {
+    "latitude": -3.7050253,
+    "longitude": -38.5647715,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60346164": {
+    "latitude": -3.7247299,
+    "longitude": -38.5860525,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60310002": {
+    "latitude": -3.7163213,
+    "longitude": -38.5606013,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60132080": {
+    "latitude": -3.7932167,
+    "longitude": -38.5280359,
+    "precisao": "cidade",
+    "cidade": "FORTALEZA",
+    "uf": null
+  },
+  "60347780": {
+    "latitude": -3.7144914,
+    "longitude": -38.5969069,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60410222": {
+    "latitude": -3.7645022,
+    "longitude": -38.550824,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60410790": {
+    "latitude": -3.7614437,
+    "longitude": -38.531031,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60415762": {
+    "latitude": -3.7576376,
+    "longitude": -38.5326761,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60430235": {
+    "latitude": -3.7466348,
+    "longitude": -38.5524095,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60510128": {
+    "latitude": -3.7612975,
+    "longitude": -38.5766725,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60520050": {
+    "latitude": -3.7725314,
+    "longitude": -38.577064,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60545241": {
+    "latitude": -3.7796179,
+    "longitude": -38.6027909,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60714315": {
+    "latitude": -3.7955975,
+    "longitude": -38.5524512,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60732495": {
+    "latitude": -3.8068636,
+    "longitude": -38.6232548,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60750030": {
+    "latitude": -3.8319285,
+    "longitude": -38.5549219,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60840040": {
+    "latitude": -3.8314999,
+    "longitude": -38.4880762,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60810670": {
+    "latitude": -3.846109,
+    "longitude": -38.4939087,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60851150": {
+    "latitude": -3.764938,
+    "longitude": -38.5134525,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "60871750": {
+    "latitude": -3.837013,
+    "longitude": -38.4851461,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "62010550": {
+    "latitude": -3.6928042,
+    "longitude": -40.3579125,
+    "precisao": "cep",
+    "cidade": "Sobral",
+    "uf": "CE"
+  },
+  "62320029": {
+    "latitude": -3.7251,
+    "longitude": -40.99062,
+    "precisao": "cep",
+    "cidade": "Tianguá",
+    "uf": "CE"
+  },
+  "62030340": {
+    "latitude": -3.6768364,
+    "longitude": -40.3676324,
+    "precisao": "cep",
+    "cidade": "Sobral",
+    "uf": "CE"
+  },
+  "62500000": {
+    "latitude": -3.499706,
+    "longitude": -39.5839241,
+    "precisao": "cep",
+    "cidade": "Itapipoca",
+    "uf": "CE"
+  },
+  "61900000": {
+    "latitude": -3.8779438,
+    "longitude": -38.6247697,
+    "precisao": "cidade",
+    "cidade": "MARACANAU",
+    "uf": null
+  },
+  "62700000": {
+    "latitude": -4.3580865,
+    "longitude": -39.3137855,
+    "precisao": "cep",
+    "cidade": "Canindé",
+    "uf": "CE"
+  },
+  "60844150": {
+    "latitude": -3.8233561,
+    "longitude": -38.4801279,
+    "precisao": "cep",
+    "cidade": "Fortaleza",
+    "uf": "CE"
+  },
+  "62800000": {
+    "latitude": -4.5612094,
+    "longitude": -37.7688612,
+    "precisao": "cep",
+    "cidade": "Aracati",
+    "uf": "CE"
+  },
+  "62850000": {
+    "latitude": -4.1328636,
+    "longitude": -38.2470885,
+    "precisao": "cep",
+    "cidade": "Cascavel",
+    "uf": "CE"
+  },
+  "62870000": {
+    "latitude": -4.1731846,
+    "longitude": -38.460945,
+    "precisao": "cep",
+    "cidade": "Pacajus",
+    "uf": "CE"
+  },
+  "62880000": {
+    "latitude": -4.10185,
+    "longitude": -38.48331,
+    "precisao": "cep",
+    "cidade": "Horizonte",
+    "uf": "CE"
+  },
+  "62760000": {
+    "latitude": -4.3325997,
+    "longitude": -38.8773164,
+    "precisao": "cep",
+    "cidade": "Baturité",
+    "uf": "CE"
+  },
+  "63020080": {
+    "latitude": -7.2144913,
+    "longitude": -39.3099923,
+    "precisao": "cep",
+    "cidade": "Juazeiro do Norte",
+    "uf": "CE"
+  },
+  "63180000": {
+    "latitude": -7.2986169,
+    "longitude": -39.3024396,
+    "precisao": "cep",
+    "cidade": "Barbalha",
+    "uf": "CE"
+  },
+  "63700200": {
+    "latitude": -5.18363,
+    "longitude": -40.66691,
+    "precisao": "cep",
+    "cidade": "Crateús",
+    "uf": "CE"
+  },
+  "63800000": {
+    "latitude": -5.1920073,
+    "longitude": -39.2933955,
+    "precisao": "cep",
+    "cidade": "Quixeramobim",
+    "uf": "CE"
+  },
+  "64002530": {
+    "latitude": -5.0552297,
+    "longitude": -42.8188147,
+    "precisao": "cep",
+    "cidade": "Teresina",
+    "uf": "PI"
+  },
+  "64008540": {
+    "latitude": -5.0381739,
+    "longitude": -42.8098106,
+    "precisao": "cep",
+    "cidade": "Teresina",
+    "uf": "PI"
+  },
+  "64056375": {
+    "latitude": -5.0704907,
+    "longitude": -42.7716404,
+    "precisao": "cep",
+    "cidade": "Teresina",
+    "uf": "PI"
+  },
+  "64216470": {
+    "latitude": -2.9280994,
+    "longitude": -41.7489831,
+    "precisao": "cep",
+    "cidade": "Parnaíba",
+    "uf": "PI"
+  },
+  "64059490": {
+    "latitude": -5.052247,
+    "longitude": -42.752539,
+    "precisao": "cep",
+    "cidade": "Teresina",
+    "uf": "PI"
+  },
+  "64800000": {
+    "latitude": -6.77146,
+    "longitude": -43.02402,
+    "precisao": "cep",
+    "cidade": "Floriano",
+    "uf": "PI"
+  },
+  "63290000": {
+    "latitude": -7.5993135,
+    "longitude": -39.1959729,
+    "precisao": "cep",
+    "cidade": "Jardim",
+    "uf": "CE"
+  },
+  "63902125": {
+    "latitude": -4.969087,
+    "longitude": -39.0251555,
+    "precisao": "cep",
+    "cidade": "Quixadá",
+    "uf": "CE"
+  },
+  "65000000": {
+    "latitude": -2.5295265,
+    "longitude": -44.2963942,
+    "precisao": "cidade",
+    "cidade": "SAO LUIS",
+    "uf": null
+  },
+  "65051210": {
+    "latitude": -2.5450041,
+    "longitude": -44.2172761,
+    "precisao": "cep",
+    "cidade": "São Luís",
+    "uf": "MA"
+  },
+  "65020070": {
+    "latitude": -2.5010937,
+    "longitude": -44.2523688,
+    "precisao": "cep",
+    "cidade": "São Luís",
+    "uf": "MA"
+  },
+  "65900330": {
+    "latitude": -5.5257254,
+    "longitude": -47.4890388,
+    "precisao": "cep",
+    "cidade": "Imperatriz",
+    "uf": "MA"
+  },
+  "65600000": {
+    "latitude": -4.8654201,
+    "longitude": -43.353664,
+    "precisao": "cidade",
+    "cidade": "CAXIAS",
+    "uf": null
+  },
+  "66050380": {
+    "latitude": -1.4407887,
+    "longitude": -48.4801156,
+    "precisao": "cep",
+    "cidade": "Belém",
+    "uf": "PA"
+  },
+  "67200000": {
+    "latitude": -1.3603782,
+    "longitude": -48.3424868,
+    "precisao": "cep",
+    "cidade": "Marituba",
+    "uf": "PA"
+  },
+  "68445000": {
+    "latitude": -1.5798321,
+    "longitude": -48.598804,
+    "precisao": "cep",
+    "cidade": "Barcarena",
+    "uf": "PA"
+  },
+  "68515000": {
+    "latitude": -6.0682494,
+    "longitude": -49.904199,
+    "precisao": "cep",
+    "cidade": "Parauapebas",
+    "uf": "PA"
+  },
+  "68500040": {
+    "latitude": -5.3496037,
+    "longitude": -49.1359342,
+    "precisao": "cep",
+    "cidade": "Marabá",
+    "uf": "PA"
+  },
+  "68745000": {
+    "latitude": -1.2966488,
+    "longitude": -47.9264267,
+    "precisao": "cep",
+    "cidade": "Castanhal",
+    "uf": "PA"
+  },
+  "68600000": {
+    "latitude": -1.0616193,
+    "longitude": -46.7830109,
+    "precisao": "cep",
+    "cidade": "Bragança",
+    "uf": "PA"
+  },
+  "69020030": {
+    "latitude": -3.130253,
+    "longitude": -60.0191171,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "68901901": {
+    "latitude": 0.0385446,
+    "longitude": -51.0749767,
+    "precisao": "cep",
+    "cidade": "Macapá",
+    "uf": "AP"
+  },
+  "68908350": {
+    "latitude": 0.0576726,
+    "longitude": -51.0567579,
+    "precisao": "cep",
+    "cidade": "Macapá",
+    "uf": "AP"
+  },
+  "68900073": {
+    "latitude": 0.0411663,
+    "longitude": -51.0649516,
+    "precisao": "cep",
+    "cidade": "Macapá",
+    "uf": "AP"
+  },
+  "69020140": {
+    "latitude": -3.1282647,
+    "longitude": -60.0119391,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69020141": {
+    "latitude": -3.1205158,
+    "longitude": -60.0111394,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69036110": {
+    "latitude": -3.0994679,
+    "longitude": -60.0556343,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69020282": {
+    "latitude": -3.10194,
+    "longitude": -60.025,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69057002": {
+    "latitude": -3.1040948,
+    "longitude": -60.0135946,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69042150": {
+    "latitude": -3.0178604,
+    "longitude": -59.9343542,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69075351": {
+    "latitude": -3.1328347,
+    "longitude": -59.9754139,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69083000": {
+    "latitude": -3.0763069,
+    "longitude": -59.9595312,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69090890": {
+    "latitude": -3.0362681,
+    "longitude": -59.9854831,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69097720": {
+    "latitude": -3.0318056,
+    "longitude": -59.952443,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69152240": {
+    "latitude": -2.6459604,
+    "longitude": -56.7490609,
+    "precisao": "cep",
+    "cidade": "Parintins",
+    "uf": "AM"
+  },
+  "69093132": {
+    "latitude": -3.0087713,
+    "longitude": -59.9905462,
+    "precisao": "cep",
+    "cidade": "Manaus",
+    "uf": "AM"
+  },
+  "69200000": {
+    "latitude": -4.6497952,
+    "longitude": -59.4720904,
+    "precisao": "cep",
+    "cidade": "Borba",
+    "uf": "AM"
+  },
+  "69280000": {
+    "latitude": -5.8116004,
+    "longitude": -61.2915104,
+    "precisao": "cep",
+    "cidade": "Manicoré",
+    "uf": "AM"
+  },
+  "69553150": {
+    "latitude": -3.3531928,
+    "longitude": -64.7253917,
+    "precisao": "cep",
+    "cidade": "Tefé",
+    "uf": "AM"
+  },
+  "69305115": {
+    "latitude": 2.8283371,
+    "longitude": -60.6664347,
+    "precisao": "cep",
+    "cidade": "Boa Vista",
+    "uf": "RR"
+  },
+  "69908380": {
+    "latitude": -9.9440907,
+    "longitude": -67.8598187,
+    "precisao": "cep",
+    "cidade": "Rio Branco",
+    "uf": "AC"
+  },
+  "69908650": {
+    "latitude": -9.9831155,
+    "longitude": -67.8352344,
+    "precisao": "cep",
+    "cidade": "Rio Branco",
+    "uf": "AC"
+  },
+  "69911204": {
+    "latitude": -9.9821675,
+    "longitude": -67.8255398,
+    "precisao": "cep",
+    "cidade": "Rio Branco",
+    "uf": "AC"
+  },
+  "69925000": {
+    "latitude": -10.1500737,
+    "longitude": -67.7367345,
+    "precisao": "cep",
+    "cidade": "Senador Guiomard",
+    "uf": "AC"
+  },
+  "69900000": {
+    "latitude": -7.6145911,
+    "longitude": -72.905264,
+    "precisao": "cidade",
+    "cidade": "MANCIO LIMA",
+    "uf": null
+  },
+  "69980000": {
+    "latitude": -7.6280405,
+    "longitude": -72.6761608,
+    "precisao": "cep",
+    "cidade": "Cruzeiro do Sul",
+    "uf": "AC"
+  },
+  "70680400": {
+    "latitude": -15.7908539,
+    "longitude": -47.9195113,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "70390903": {
+    "latitude": -15.8266126,
+    "longitude": -47.9286479,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "70390700": {
+    "latitude": -15.8124707,
+    "longitude": -47.9137824,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "71571510": {
+    "latitude": -15.8975076,
+    "longitude": -47.7770777,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "70710100": {
+    "latitude": -15.784335,
+    "longitude": -47.885301,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "70840901": {
+    "latitude": -15.7715276,
+    "longitude": -47.8733017,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "70086900": {
+    "latitude": -15.7939869,
+    "longitude": -47.8828,
+    "precisao": "cidade",
+    "cidade": "BRASILIA",
+    "uf": null
+  },
+  "71691082": {
+    "latitude": -15.8963229,
+    "longitude": -47.7760935,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "71825600": {
+    "latitude": -15.8879077,
+    "longitude": -48.0128472,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72025110": {
+    "latitude": -15.859718,
+    "longitude": -48.041315,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72115902": {
+    "latitude": -15.8223299,
+    "longitude": -48.0691713,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72322583": {
+    "latitude": -15.8532809,
+    "longitude": -48.0732283,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72215170": {
+    "latitude": -15.8176246,
+    "longitude": -48.0988992,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72115700": {
+    "latitude": -15.8212115,
+    "longitude": -48.0666141,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72405901": {
+    "latitude": -16.0206594,
+    "longitude": -48.0673361,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72502100": {
+    "latitude": -16.0512129,
+    "longitude": -47.9777407,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "73010120": {
+    "latitude": -15.6756759,
+    "longitude": -47.8278318,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "72720901": {
+    "latitude": -15.7942287,
+    "longitude": -47.8821658,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "73310000": {
+    "latitude": -15.624288,
+    "longitude": -47.6524864,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "73350164": {
+    "latitude": -15.602443,
+    "longitude": -47.645682,
+    "precisao": "cep",
+    "cidade": "Brasília",
+    "uf": "DF"
+  },
+  "73750210": {
+    "latitude": -15.4490013,
+    "longitude": -47.5866187,
+    "precisao": "cep",
+    "cidade": "Planaltina",
+    "uf": "GO"
+  },
+  "74125090": {
+    "latitude": -16.6779913,
+    "longitude": -49.2789134,
+    "precisao": "cep",
+    "cidade": "Goiânia",
+    "uf": "GO"
+  },
+  "74493160": {
+    "latitude": -16.6630575,
+    "longitude": -49.3850029,
+    "precisao": "cep",
+    "cidade": "Goiânia",
+    "uf": "GO"
+  },
+  "74605050": {
+    "latitude": -16.6743496,
+    "longitude": -49.2435257,
+    "precisao": "cep",
+    "cidade": "Goiânia",
+    "uf": "GO"
+  },
+  "75110730": {
+    "latitude": -16.3291194,
+    "longitude": -48.9386285,
+    "precisao": "cep",
+    "cidade": "Anápolis",
+    "uf": "GO"
+  },
+  "74845250": {
+    "latitude": -16.7171785,
+    "longitude": -49.2416928,
+    "precisao": "cep",
+    "cidade": "Goiânia",
+    "uf": "GO"
+  },
+  "75145040": {
+    "latitude": -16.3468624,
+    "longitude": -48.9740537,
+    "precisao": "cep",
+    "cidade": "Anápolis",
+    "uf": "GO"
+  },
+  "74431340": {
+    "latitude": -16.680882,
+    "longitude": -49.2532691,
+    "precisao": "cidade",
+    "cidade": "GOIANIA",
+    "uf": null
+  },
+  "77006020": {
+    "latitude": -10.18176,
+    "longitude": -48.3275505,
+    "precisao": "cep",
+    "cidade": "Palmas",
+    "uf": "TO"
+  },
+  "77405110": {
+    "latitude": -11.7282619,
+    "longitude": -49.0674596,
+    "precisao": "cep",
+    "cidade": "Gurupi",
+    "uf": "TO"
+  },
+  "77500000": {
+    "latitude": -10.7031252,
+    "longitude": -48.4084386,
+    "precisao": "cep",
+    "cidade": "Porto Nacional",
+    "uf": "TO"
+  },
+  "78008400": {
+    "latitude": -15.59493,
+    "longitude": -56.0921,
+    "precisao": "cep",
+    "cidade": "Cuiabá",
+    "uf": "MT"
+  },
+  "77600000": {
+    "latitude": -10.1754102,
+    "longitude": -48.8826983,
+    "precisao": "cep",
+    "cidade": "Paraíso do Tocantins",
+    "uf": "TO"
+  },
+  "77803010": {
+    "latitude": -7.1922082,
+    "longitude": -48.2139886,
+    "precisao": "cep",
+    "cidade": "Araguaína",
+    "uf": "TO"
+  },
+  "78025000": {
+    "latitude": -15.6128889,
+    "longitude": -56.1079158,
+    "precisao": "cep",
+    "cidade": "Cuiabá",
+    "uf": "MT"
+  },
+  "78048902": {
+    "latitude": -15.5809771,
+    "longitude": -56.0794021,
+    "precisao": "cep",
+    "cidade": "Cuiabá",
+    "uf": "MT"
+  },
+  "78705025": {
+    "latitude": -16.4633195,
+    "longitude": -54.6438655,
+    "precisao": "cep",
+    "cidade": "Rondonópolis",
+    "uf": "MT"
+  },
+  "78455000": {
+    "latitude": -13.064847,
+    "longitude": -55.9193214,
+    "precisao": "cep",
+    "cidade": "Lucas do Rio Verde",
+    "uf": "MT"
+  },
+  "78905160": {
+    "latitude": -8.7496857,
+    "longitude": -63.8877591,
+    "precisao": "cep",
+    "cidade": "Porto Velho",
+    "uf": "RO"
+  },
+  "79002201": {
+    "latitude": -20.4602122,
+    "longitude": -54.6188461,
+    "precisao": "cep",
+    "cidade": "Campo Grande",
+    "uf": "MS"
+  },
+  "79002251": {
+    "latitude": -20.4502994,
+    "longitude": -54.6058424,
+    "precisao": "cep",
+    "cidade": "Campo Grande",
+    "uf": "MS"
+  },
+  "79080190": {
+    "latitude": -20.5092605,
+    "longitude": -54.6217169,
+    "precisao": "cep",
+    "cidade": "Campo Grande",
+    "uf": "MS"
+  },
+  "79084180": {
+    "latitude": -20.5146895,
+    "longitude": -54.6450069,
+    "precisao": "cep",
+    "cidade": "Campo Grande",
+    "uf": "MS"
+  },
+  "79823501": {
+    "latitude": -22.2193225,
+    "longitude": -54.8560865,
+    "precisao": "cep",
+    "cidade": "Dourados",
+    "uf": "MS"
+  },
+  "80060900": {
+    "latitude": -25.4242174,
+    "longitude": -49.2618251,
+    "precisao": "cep",
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "80250060": {
+    "latitude": -25.434933,
+    "longitude": -49.2832299,
+    "precisao": "cep",
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "80730150": {
+    "latitude": -25.4340197,
+    "longitude": -49.2899026,
+    "precisao": "cep",
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "81050030": {
+    "latitude": -25.485307,
+    "longitude": -49.2963968,
+    "precisao": "cep",
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "81920410": {
+    "latitude": -25.5436011,
+    "longitude": -49.2504708,
+    "precisao": "cep",
+    "cidade": "Curitiba",
+    "uf": "PR"
+  },
+  "83005040": {
+    "latitude": -25.5414773,
+    "longitude": -49.2033129,
+    "precisao": "cep",
+    "cidade": "São José dos Pinhais",
+    "uf": "PR"
+  },
+  "83323350": {
+    "latitude": -25.4414209,
+    "longitude": -49.1870116,
+    "precisao": "cep",
+    "cidade": "Pinhais",
+    "uf": "PR"
+  },
+  "84035000": {
+    "latitude": -25.1006316,
+    "longitude": -50.1555312,
+    "precisao": "cep",
+    "cidade": "Ponta Grossa",
+    "uf": "PR"
+  },
+  "85501010": {
+    "latitude": -26.2268645,
+    "longitude": -52.670233,
+    "precisao": "cep",
+    "cidade": "Pato Branco",
+    "uf": "PR"
+  },
+  "85601839": {
+    "latitude": -26.10872,
+    "longitude": -53.03456,
+    "precisao": "cep",
+    "cidade": "Francisco Beltrão",
+    "uf": "PR"
+  },
+  "85501250": {
+    "latitude": -26.2322929,
+    "longitude": -52.6816734,
+    "precisao": "cep",
+    "cidade": "Pato Branco",
+    "uf": "PR"
+  },
+  "85802080": {
+    "latitude": -24.9667599,
+    "longitude": -53.4585316,
+    "precisao": "cep",
+    "cidade": "Cascavel",
+    "uf": "PR"
+  },
+  "85806470": {
+    "latitude": -24.9440307,
+    "longitude": -53.5089643,
+    "precisao": "cep",
+    "cidade": "Cascavel",
+    "uf": "PR"
+  },
+  "85812130": {
+    "latitude": -24.9506788,
+    "longitude": -53.4487927,
+    "precisao": "cep",
+    "cidade": "Cascavel",
+    "uf": "PR"
+  },
+  "85860460": {
+    "latitude": -25.4958832,
+    "longitude": -54.5433646,
+    "precisao": "cep",
+    "cidade": "Foz do Iguaçu",
+    "uf": "PR"
+  },
+  "85875000": {
+    "latitude": -25.4412654,
+    "longitude": -54.4025472,
+    "precisao": "cep",
+    "cidade": "Santa Terezinha de Itaipu",
+    "uf": "PR"
+  },
+  "85900020": {
+    "latitude": -24.728449,
+    "longitude": -53.7408473,
+    "precisao": "cep",
+    "cidade": "Toledo",
+    "uf": "PR"
+  },
+  "86010355": {
+    "latitude": -23.3044524,
+    "longitude": -51.1695824,
+    "precisao": "cep",
+    "cidade": "Londrina",
+    "uf": "PR"
+  },
+  "86015900": {
+    "latitude": -23.3264817,
+    "longitude": -51.1601915,
+    "precisao": "cep",
+    "cidade": "Londrina",
+    "uf": "PR"
+  },
+  "85010250": {
+    "latitude": -25.3913016,
+    "longitude": -51.468741,
+    "precisao": "cep",
+    "cidade": "Guarapuava",
+    "uf": "PR"
+  },
+  "86038350": {
+    "latitude": -23.327933,
+    "longitude": -51.1202095,
+    "precisao": "cep",
+    "cidade": "Londrina",
+    "uf": "PR"
+  },
+  "86047250": {
+    "latitude": -23.3388621,
+    "longitude": -51.1639313,
+    "precisao": "cep",
+    "cidade": "Londrina",
+    "uf": "PR"
+  },
+  "86183690": {
+    "latitude": -23.2696904,
+    "longitude": -51.2585078,
+    "precisao": "cep",
+    "cidade": "Cambé",
+    "uf": "PR"
+  },
+  "86600057": {
+    "latitude": -23.3142551,
+    "longitude": -51.3675511,
+    "precisao": "cep",
+    "cidade": "Rolândia",
+    "uf": "PR"
+  },
+  "86300000": {
+    "latitude": -23.197833,
+    "longitude": -50.6378804,
+    "precisao": "cep",
+    "cidade": "Cornélio Procópio",
+    "uf": "PR"
+  },
+  "86702000": {
+    "latitude": -23.41624,
+    "longitude": -51.45933,
+    "precisao": "cep",
+    "cidade": "Arapongas",
+    "uf": "PR"
+  },
+  "86800120": {
+    "latitude": -23.5528711,
+    "longitude": -51.4602261,
+    "precisao": "cep",
+    "cidade": "Apucarana",
+    "uf": "PR"
+  },
+  "86900000": {
+    "latitude": -23.6386271,
+    "longitude": -51.6623517,
+    "precisao": "cep",
+    "cidade": "Jandaia do Sul",
+    "uf": "PR"
+  },
+  "87050100": {
+    "latitude": -23.4219753,
+    "longitude": -51.930863,
+    "precisao": "cep",
+    "cidade": "Maringá",
+    "uf": "PR"
+  },
+  "87302215": {
+    "latitude": -24.0436553,
+    "longitude": -52.3781098,
+    "precisao": "cep",
+    "cidade": "Campo Mourão",
+    "uf": "PR"
+  },
+  "87083240": {
+    "latitude": -23.3861144,
+    "longitude": -51.9569611,
+    "precisao": "cep",
+    "cidade": "Maringá",
+    "uf": "PR"
+  },
+  "87501310": {
+    "latitude": -23.7663079,
+    "longitude": -53.3136464,
+    "precisao": "cep",
+    "cidade": "Umuarama",
+    "uf": "PR"
+  },
+  "87702330": {
+    "latitude": -23.0687927,
+    "longitude": -52.4645885,
+    "precisao": "cep",
+    "cidade": "Paranavaí",
+    "uf": "PR"
+  },
+  "88015130": {
+    "latitude": -27.5908802,
+    "longitude": -48.5530522,
+    "precisao": "cep",
+    "cidade": "Florianópolis",
+    "uf": "SC"
+  },
+  "88025301": {
+    "latitude": -27.5748856,
+    "longitude": -48.5372174,
+    "precisao": "cep",
+    "cidade": "Florianópolis",
+    "uf": "SC"
+  },
+  "88015270": {
+    "latitude": -27.5890771,
+    "longitude": -48.5507329,
+    "precisao": "cep",
+    "cidade": "Florianópolis",
+    "uf": "SC"
+  },
+  "88036800": {
+    "latitude": -27.5958328,
+    "longitude": -48.5180254,
+    "precisao": "cep",
+    "cidade": "Florianópolis",
+    "uf": "SC"
+  },
+  "88103901": {
+    "latitude": -27.6096637,
+    "longitude": -48.6300521,
+    "precisao": "cep",
+    "cidade": "São José",
+    "uf": "SC"
+  },
+  "88301303": {
+    "latitude": -26.9078107,
+    "longitude": -48.6612881,
+    "precisao": "cep",
+    "cidade": "Itajaí",
+    "uf": "SC"
+  },
+  "88338223": {
+    "latitude": -26.9786674,
+    "longitude": -48.647157,
+    "precisao": "cep",
+    "cidade": "Balneário Camboriú",
+    "uf": "SC"
+  },
+  "88350170": {
+    "latitude": -27.0992553,
+    "longitude": -48.9129969,
+    "precisao": "cep",
+    "cidade": "Brusque",
+    "uf": "SC"
+  },
+  "88501001": {
+    "latitude": -27.8168425,
+    "longitude": -50.3315113,
+    "precisao": "cep",
+    "cidade": "Lages",
+    "uf": "SC"
+  },
+  "88701160": {
+    "latitude": -28.486476,
+    "longitude": -49.001482,
+    "precisao": "cep",
+    "cidade": "Tubarão",
+    "uf": "SC"
+  },
+  "88809020": {
+    "latitude": -28.6776705,
+    "longitude": -49.3844512,
+    "precisao": "cep",
+    "cidade": "Criciúma",
+    "uf": "SC"
+  },
+  "89015207": {
+    "latitude": -26.9073746,
+    "longitude": -49.0343771,
+    "precisao": "cep",
+    "cidade": "Blumenau",
+    "uf": "SC"
+  },
+  "89052000": {
+    "latitude": -26.887259,
+    "longitude": -49.0830924,
+    "precisao": "cep",
+    "cidade": "Blumenau",
+    "uf": "SC"
+  },
+  "89202190": {
+    "latitude": -26.3120697,
+    "longitude": -48.8488498,
+    "precisao": "cep",
+    "cidade": "Joinville",
+    "uf": "SC"
+  },
+  "89204060": {
+    "latitude": -26.2906629,
+    "longitude": -48.8454277,
+    "precisao": "cep",
+    "cidade": "Joinville",
+    "uf": "SC"
+  },
+  "89255060": {
+    "latitude": -26.4753557,
+    "longitude": -49.0828612,
+    "precisao": "cep",
+    "cidade": "Jaraguá do Sul",
+    "uf": "SC"
+  },
+  "89204310": {
+    "latitude": -26.2896086,
+    "longitude": -48.8508799,
+    "precisao": "cep",
+    "cidade": "Joinville",
+    "uf": "SC"
+  },
+  "89280118": {
+    "latitude": -26.2497988,
+    "longitude": -49.3867113,
+    "precisao": "cep",
+    "cidade": "São Bento do Sul",
+    "uf": "SC"
+  },
+  "89300000": {
+    "latitude": -26.1164276,
+    "longitude": -49.8091065,
+    "precisao": "cep",
+    "cidade": "Mafra",
+    "uf": "SC"
+  },
+  "89295000": {
+    "latitude": -26.2499033,
+    "longitude": -49.518067,
+    "precisao": "cep",
+    "cidade": "Rio Negrinho",
+    "uf": "SC"
+  },
+  "89340000": {
+    "latitude": -26.3396691,
+    "longitude": -49.9061128,
+    "precisao": "cep",
+    "cidade": "Itaiópolis",
+    "uf": "SC"
+  },
+  "89460000": {
+    "latitude": -26.1770819,
+    "longitude": -50.3954885,
+    "precisao": "cep",
+    "cidade": "Canoinhas",
+    "uf": "SC"
+  },
+  "89520000": {
+    "latitude": -27.282855,
+    "longitude": -50.5821037,
+    "precisao": "cep",
+    "cidade": "Curitibanos",
+    "uf": "SC"
+  },
+  "89490000": {
+    "latitude": -26.124115,
+    "longitude": -50.3120667,
+    "precisao": "cep",
+    "cidade": "Três Barras",
+    "uf": "SC"
+  },
+  "89700001": {
+    "latitude": -27.2328042,
+    "longitude": -52.0242256,
+    "precisao": "cep",
+    "cidade": "Concórdia",
+    "uf": "SC"
+  },
+  "89801130": {
+    "latitude": -27.1042769,
+    "longitude": -52.607898,
+    "precisao": "cep",
+    "cidade": "Chapecó",
+    "uf": "SC"
+  },
+  "90035000": {
+    "latitude": -30.0320559,
+    "longitude": -51.208428,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "90020090": {
+    "latitude": -30.0302349,
+    "longitude": -51.2226556,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "89812505": {
+    "latitude": -27.1111422,
+    "longitude": -52.616559,
+    "precisao": "cep",
+    "cidade": "Chapecó",
+    "uf": "SC"
+  },
+  "90035003": {
+    "latitude": -30.0347359,
+    "longitude": -51.2083877,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "90035076": {
+    "latitude": -30.029362,
+    "longitude": -51.2144889,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "90430001": {
+    "latitude": -30.0286237,
+    "longitude": -51.2024752,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "91350200": {
+    "latitude": -30.0150727,
+    "longitude": -51.1593881,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "91712160": {
+    "latitude": -30.0852893,
+    "longitude": -51.189482,
+    "precisao": "cep",
+    "cidade": "Porto Alegre",
+    "uf": "RS"
+  },
+  "95070561": {
+    "latitude": -29.1616691,
+    "longitude": -51.1551167,
+    "precisao": "cep",
+    "cidade": "Caxias do Sul",
+    "uf": "RS"
+  },
+  "95185000": {
+    "latitude": -29.2950409,
+    "longitude": -51.5008921,
+    "precisao": "cep",
+    "cidade": "Carlos Barbosa",
+    "uf": "RS"
+  },
+  "95700084": {
+    "latitude": -29.1683019,
+    "longitude": -51.5149638,
+    "precisao": "cep",
+    "cidade": "Bento Gonçalves",
+    "uf": "RS"
+  },
+  "95900000": {
+    "latitude": -29.46818,
+    "longitude": -51.96443,
+    "precisao": "cep",
+    "cidade": "Lajeado",
+    "uf": "RS"
+  },
+  "95880000": {
+    "latitude": -29.501873,
+    "longitude": -51.9640632,
+    "precisao": "cep",
+    "cidade": "Estrela",
+    "uf": "RS"
+  },
+  "96020220": {
+    "latitude": -31.7680851,
+    "longitude": -52.3447394,
+    "precisao": "cep",
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  "96203900": {
+    "latitude": -32.074877,
+    "longitude": -52.1659699,
+    "precisao": "cep",
+    "cidade": "Rio Grande",
+    "uf": "RS"
+  },
+  "96020360": {
+    "latitude": -31.7683697,
+    "longitude": -52.3485614,
+    "precisao": "cep",
+    "cidade": "Pelotas",
+    "uf": "RS"
+  },
+  "96810072": {
+    "latitude": -29.7200616,
+    "longitude": -52.429233,
+    "precisao": "cep",
+    "cidade": "Santa Cruz do Sul",
+    "uf": "RS"
+  },
+  "96400130": {
+    "latitude": -31.3300926,
+    "longitude": -54.1101271,
+    "precisao": "cep",
+    "cidade": "Bagé",
+    "uf": "RS"
+  },
+  "98780803": {
+    "latitude": -27.8663679,
+    "longitude": -54.4849937,
+    "precisao": "cep",
+    "cidade": "Santa Rosa",
+    "uf": "RS"
+  },
+  "98700000": {
+    "latitude": -28.3013365,
+    "longitude": -53.88892,
+    "precisao": "cep",
+    "cidade": "Ijuí",
+    "uf": "RS"
+  },
+  "98801690": {
+    "latitude": -28.3052274,
+    "longitude": -54.2611189,
+    "precisao": "cep",
+    "cidade": "Santo Ângelo",
+    "uf": "RS"
+  }
+}
