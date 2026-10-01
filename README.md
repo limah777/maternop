@@ -13,11 +13,7 @@ npm start
 
 A API sobe na porta 8000 e fica acessível pelo IP da máquina, não só em localhost. O endereço aparece no terminal e o navegador abre a documentação nesse IP.
 
-Na mesma rede Wi-Fi, o celular ou outro PC usa o mesmo endereço. Exemplo:
-
-```
-http://192.168.0.15:8000/docs
-```
+Na mesma rede Wi-Fi, o celular ou outro PC usa o endereço que o terminal mostrar.
 
 ## Consulta
 
